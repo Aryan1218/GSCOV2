@@ -1,2 +1,2 @@
-# GSCOV2
-A bullet and walls game
+# p5.play-boilerplate
+Boiler plate for p5.play
